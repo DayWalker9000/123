@@ -1104,6 +1104,12 @@
     },
     "done": true
   },
+  "buildcraftcore:gears": {
+    "criteria": {
+      "gear_wood": "2019-09-14 01:03:13 +0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2019-09-01 03:23:07 +0300"
