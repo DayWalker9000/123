@@ -484,6 +484,12 @@
     },
     "done": true
   },
+  "buildcraftfactory:recipes/water_gel_spawn": {
+    "criteria": {
+      "has_sand": "2019-09-15 14:32:31 +0300"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2019-08-31 23:24:25 +0300",
@@ -510,6 +516,12 @@
   "minecraft:recipes/building_blocks/birch_wooden_slab": {
     "criteria": {
       "has_planks": "2019-08-30 23:24:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2019-09-15 14:32:31 +0300"
     },
     "done": true
   },
@@ -661,7 +673,8 @@
     "criteria": {
       "skeleton": "2019-09-07 15:40:10 +0300",
       "zombie": "2019-08-31 00:04:24 +0300",
-      "spider": "2019-08-31 00:05:31 +0300"
+      "spider": "2019-08-31 00:05:31 +0300",
+      "creeper": "2019-09-15 15:56:43 +0300"
     },
     "done": false
   },
