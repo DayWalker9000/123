@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2019-09-28 03:48:30 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2019-08-28 00:00:38 +0300"
@@ -520,6 +526,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2019-08-29 01:05:58 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2019-09-28 03:48:30 +0300"
     },
     "done": true
   },
@@ -749,6 +761,12 @@
     },
     "done": true
   },
+  "buildcrafttransport:too_many_pipe_filters": {
+    "criteria": {
+      "code_trigger": "2019-09-28 00:28:44 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2019-08-27 23:25:42 +0300"
@@ -908,6 +926,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2019-08-28 23:55:33 +0300",
+      "magma_cube": "2019-09-28 01:34:21 +0300",
       "slime": "2019-09-24 01:47:17 +0300",
       "skeleton": "2019-08-28 23:19:52 +0300",
       "husk": "2019-09-20 00:51:16 +0300",
@@ -1499,6 +1518,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2019-09-05 02:10:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma": {
+    "criteria": {
+      "has_magma_cream": "2019-09-28 01:34:26 +0300"
     },
     "done": true
   },
